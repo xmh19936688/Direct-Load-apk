@@ -1,3 +1,4 @@
+*不支持AppCompat*
 Direct-load-apk
 ===================
 ![enter image description here](http://www.xiaoxiongbizhi.com/wallpapers/1152_864_85/u/x/uxcccgx3r.jpg)
